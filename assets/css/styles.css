@@ -76,7 +76,7 @@ html {
 }
 
 .col-third {
-    width: 33.33333%;
+    width: calc(100% / 3);
 }
 
 
